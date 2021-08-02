@@ -1,0 +1,16 @@
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.exe
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.deps.json
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.dll
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\ref\Series.dll
+C:\BootCamp\Everis\DigitalInnovationOne\series\bin\Debug\net5.0\Series.pdb
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.dll
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\ref\Series.dll
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.pdb
+C:\BootCamp\Everis\DigitalInnovationOne\series\obj\Debug\net5.0\Series.genruntimeconfig.cache
